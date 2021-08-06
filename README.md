@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trishanttagnoo
-- 👀 I’m interested in data scientist
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in software development and web developments
+- 🌱 I’m currently learning JavaScript, React
 - 📫 How to reach me : trishant.tangnoo7298@gmail.com
 
 <!---
