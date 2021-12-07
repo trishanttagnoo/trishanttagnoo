@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trishanttagnoo
-- 👀 I’m interested in software development and web developments
+- 👀 I’m a programmer. Working on web dev projects
 - 🌱 I’m currently learning JavaScript, React
 - 📫 How to reach me : trishant.tangnoo7298@gmail.com
 
